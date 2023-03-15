@@ -34,9 +34,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/pundo/Downloads/PortableGit/javacore_hw/libs/lombok.jar",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   },
   "keyToStringList": {
@@ -79,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677772763271</updated>
       <workItem from="1677772767329" duration="7166000" />
+      <workItem from="1678892494410" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="finish hw1">
       <created>1677779421208</created>
@@ -101,7 +102,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678025350335</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finish hw1">
+      <created>1678892512875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678892512875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finish hw1">
+      <created>1678892784303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678892784303</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finish hw1">
+      <created>1678892799183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678892799183</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
